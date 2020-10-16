@@ -6,7 +6,7 @@ Learning BLAST, Genetic Data Alignement and Phylogenetic tree construction conce
 
 To learn concepts used in bioinformatics, it is imperative to learn how BLAST, Genetic Data Alignment and Phylogenetic tree construction work for genomic data analysis and visualization.
 
-In this project, we attempted to reproduce the data found in [this paper][https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmv.25700] using genetic analysis tools.
+In this project, we attempted to reproduce the data found in [this paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmv.25700) using genetic analysis tools.
 
 To reproduce our results, ensure that you have the following tools installed;
 
