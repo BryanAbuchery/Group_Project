@@ -11,7 +11,9 @@ In this project, we attempted to reproduce the data found in this paper using ge
 To reproduce our results, ensure that you have the following tools installed;
 
 [] BLAST
+
 [] MUSCLE
+
 [] MEGAX
 
 ## Steps to Follow
