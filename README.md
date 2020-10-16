@@ -24,4 +24,5 @@ git clone this repo and cd into Group_Project
 
 bash Group_Project.sh
 
+Launch MEGAX and add the muscle_query_aligned.afa.fasta onto the Phylogenetic tree construction platform. Use the Construct/Test Maximum Likelihood tree on MEGAX to obtain a Phylogentic tree.
 
