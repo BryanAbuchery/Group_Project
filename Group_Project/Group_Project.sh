@@ -16,7 +16,7 @@ blastn -task blastn -query ourunknown/ourunknown.fa \
 -out ourunknown/blastn_aligned_ourunknown.out
 
 #Concatenate data into one file for MUSCLE MSA.
-cat ourunknown/ourunknown.fa >> muscle_query.fa
+cat ourunknown/ourunknown.fa >> ourunknown/muscle_query.fa
 cat reference_seqs/reference_seqs.fa >> ourunknown/muscle_query.fa
 
 #Do MSA using MUSCLE
