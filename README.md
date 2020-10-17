@@ -18,7 +18,7 @@ This tutorial assumes that you have installed the following tools but if not, cl
 * [MEGAX](https://www.megasoftware.net/dload_mac_beta)
 
 #### Other tools tried are:
-1. Mafft - for performing Multiple Sequence Alignment.
+1. Mafft - For performing Multiple Sequence Alignment.
 2. Kalign CLI tool - For Multiple sequence Alignment.
 3. Aliview - For performing Multiple Sequence Alignment, visualization and generation of phylogenetic tree.
 
