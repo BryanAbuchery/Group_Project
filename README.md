@@ -22,7 +22,7 @@ This tutorial assumes that you have installed the following tools but if not, cl
 
 #### Other tools tried are:
 1. Mafft multiple sequence Alignment program
-2. Kaign tool for Multiple sequence Alignment
+2. Kalign tool - for Multiple sequence Alignment
 3. Aliview - For visualization and generation of phylogenetic tree.
 
 4. Jaliview -For visualization and generation of phylogenetic tree.
