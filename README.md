@@ -3,16 +3,13 @@ The aim of this project was for us to learn about the diferent software tools us
 The group was to read a paper, reproduce it, learn how to use BLAST , perform Multiple sequence Alignment, visualize the data and construct da phylogenetic tree using the different tools available before making scientific conclusions.
 
 ## Referrence material
-
-To learn concepts used in bioinformatics, it is imperative to learn how BLAST, Genetic Data Alignment and Phylogenetic tree construction work for genomic data analysis and visualization.
-
 In this project, we attempted to reproduce the data found in [this paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmv.25700) using genetic analysis tools.
 
-To reproduce our results, ensure that you have the following tools installed;
+
 
 
 ## Tools and Installations
-This tutorial assumes that you have installed the following tools but if not, click on them and you will be redirected to the installation and documentation pages
+This tutorial assumes that you have installed the following tools but if not, click on them and you will be redirected to the installation and documentation sites.
 
 * [BLAST](https://www.ncbi.nlm.nih.gov/books/NBK279671/)
 
@@ -21,9 +18,9 @@ This tutorial assumes that you have installed the following tools but if not, cl
 * [MEGAX](https://www.megasoftware.net/dload_mac_beta)
 
 #### Other tools tried are:
-1. Mafft multiple sequence Alignment program
-2. Kalign tool - for Multiple sequence Alignment
-3. Aliview - For visualization and generation of phylogenetic tree.
+1. Mafft - for performing Multiple Sequence Alignment.
+2. Kalign CLI tool - For Multiple sequence Alignment.
+3. Aliview - For performing Multiple Sequence Alignment, visualization and generation of phylogenetic tree.
 
 4. Jaliview -For visualization and generation of phylogenetic tree.
 
