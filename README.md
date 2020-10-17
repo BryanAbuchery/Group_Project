@@ -45,8 +45,8 @@ After Installing the tools above:
 - Use the Construct/Test Maximum Likelihood tree on MEGAX to obtain a Phylogentic tree.
 
 ## Collaborators
-* [Brian abuchery](https://github.com/BryanAbuchery)
-* [Fredrick kebaso](https://github.com/fredrickkebaso)
+* [Bryan Abuchery](https://github.com/BryanAbuchery)
+* [Fredrick Kebaso](https://github.com/fredrickkebaso)
 * [Lmelius Luke](https://github.com/lmeliasluke)
-* [margaret Chifwete](https://github.com/chifwete)
+* [Margaret Chifwete](https://github.com/chifwete)
 * [Virginiah periah](https://github.com/virginiah894)
