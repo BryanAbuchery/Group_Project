@@ -5,7 +5,21 @@ The group was to read a paper, reproduce it, learn how to use BLAST , perform Mu
 ## Referrence material
 In this project, we attempted to reproduce the data found in [this paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmv.25700) using genetic analysis tools.
 
+```
+The paper is by federico  M. Giorgi and Carmine Ceraolo  and aimed to show the Genomic variance of the novel coronaviridae(nCoV/Covid-19 using the information of genomes available on GenBank and Gisaid).
 
+The team collected the samples from GenBank and Gisaid on February 02,2020. They collected samples of the new coronavirus from different locatons in China and Italy other coronaviridae (SARS,MERS and BetaCoronaviridae) 
+
+
+and MSA was performed using MUSCLE, visualization of the aligned sequences done using Jalview and finally a phylogentic tree visualized using MEGAX software tool both the Tamura-Nei model and the maximum likelihood method. validation of the structure was done by analysing the sequences on 100 bootstrapped datasets. Samples were also run on BLAST protein to identify pairwise protein alignment,nucleotide sequence identity and coverage.Lastly, structural protein disorder prediction was performed by GLOBPLOT2
+
+Results
+
+> All human coronaviridae samples looked similar despite the difference in collection location.
+> Bat coronaviridae is the closest homolog, there are two Bat specimen collected in 
+
+
+```
 
 
 ## Tools and Installations
