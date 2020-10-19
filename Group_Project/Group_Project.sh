@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #Data collection; collect data from two public databases, Genbank and GISAID.
 #Organize your data into a working directory.
 
