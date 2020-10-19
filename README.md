@@ -13,12 +13,6 @@ The team collected the samples from GenBank and Gisaid on February 02,2020. They
 
 and MSA was performed using MUSCLE, visualization of the aligned sequences done using Jalview and finally a phylogentic tree visualized using MEGAX software tool both the Tamura-Nei model and the maximum likelihood method. validation of the structure was done by analysing the sequences on 100 bootstrapped datasets. Samples were also run on BLAST protein to identify pairwise protein alignment,nucleotide sequence identity and coverage.Lastly, structural protein disorder prediction was performed by GLOBPLOT2
 
-Results
-
-> All human coronaviridae samples looked similar despite the difference in collection location.
-> Bat coronaviridae is the closest homolog, there are two Bat specimen collected in 
-
-
 ```
 
 
